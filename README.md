@@ -1,4 +1,5 @@
 # hello-world
-<h1>This is my first git practicing lesson</h1>
-I call this repository a 'learning repository'
-because I want to make it a practical hub.
+<h1>First Time Repository</h1>
+This is the first branch I created under the learning repository.
+I create it to learn the basics of GitHub. As time goes on it will 
+get more and more advanced and professional.
